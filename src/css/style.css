@@ -84,7 +84,33 @@ img {
     max-width: 100%;
     overflow-x: hidden;
 }
+div#telefono {
+    text-align: center;
+}
 
+img#imagen-anima {
+    text-align: center;
+    margin: 0 auto;
+}
+
+button#chat-button {
+    text-align: center;
+    margin: 0 auto;
+    display: block;
+    max-width: 200px;
+    border-radius: 20px;
+}
+
+ul#marcado {
+    margin: 0 auto;
+    max-width: 70%;
+    width: fit-content;
+    text-align: center;
+}
+
+.footer {
+    text-align: center;
+}
 .container {
     max-width: 800px;
     margin: 0 auto;
